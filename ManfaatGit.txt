@@ -1,0 +1,5 @@
+Manfaat Belajar Git 
+1. Menyimpan perubahan pada file dari waktu ke waktu 
+2. Mencatat siapa yang melakukan perubahan dan kapan perubahan itu terjadi
+3. memungkinkan kembali ke versi sebelumnya
+4. memudahkan bekerja berkolaborasi dalam tim
